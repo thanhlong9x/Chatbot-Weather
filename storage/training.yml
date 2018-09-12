@@ -1,0 +1,446 @@
+training:
+    - file: BuiNhatLeCV.pdf
+      keyword:
+        personal_information:
+          - Personal Information
+        skills:
+          - Skills
+        career_goal:
+          - Career Goal
+        education:
+          - Education
+        projects:
+          - Project References
+
+    - file: BuiXuanDinh.pdf
+      keyword:
+        skills:
+          - CÁC KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU
+        education:
+          - HỌC VẤN
+        projects:
+          - DỰ ÁN
+        activity:
+          - HOẠT ĐỘNG
+
+    - file: ChuHuuBac-CV.pdf
+      keyword:
+        personal_information:
+          - Thông tin liên hệ
+        skills:
+          - Kỹ năng
+        career_goal:
+          - Mục tiêu nghề nghiệp
+        education:
+          - Học vấn
+        projects:
+          - Kinh nghiệm làm việc
+        hobby:
+          - Sở thích
+
+    - file: CV.pdf
+      keyword:
+        skills:
+          - Skills
+        career_goal:
+          - Objective
+        education:
+          - Education
+        projects:
+          - Persional Project
+        activity:
+          - Activities
+          - Honors & Awards
+        hobby:
+          - Interests
+
+    - file: cv (3).pdf
+      keyword:
+        personal_information:
+          - Thông tin cá nhân
+        skills:
+          - Kỹ năng
+        education:
+          - Học vấn
+        hobby:
+          - Thông tin khác
+
+    - file: CV(5).pdf
+      keyword:
+        personal_information:
+          - THÔNG TIN CÁ NHÂN
+        skills:
+          - NĂNG LỰC NGHỀ NGHIỆP
+        career_goal:
+          - VỊ TRÍ ỨNG TUYỂN
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - TRÌNH ĐỘ HỌC VẤN
+        projects:
+          - KINH NGHIỆM VIỆC LÀM
+        activity:
+          - HOẠT ĐỘNG
+
+    - file: CV Đặng Thế Công.docx
+      keyword:
+        personal_information:
+          - NGÀY SINH
+          - NƠI SINH
+          - GIỚI TÍNH
+        skills:
+          - ƯU THẾ
+        career_goal:
+          - MỤC TIÊU
+        education:
+          - HỌC VẤN
+        projects:
+          - KINH NGHIỆM
+        hooby:
+          - SỞ THÍCH
+
+    - file: CV_LE TUAN TU_FRESHER_MISA_HCM.pdf
+      keyword:
+        personal_information:
+          - Thông tin cá nhân
+        skills:
+          - Kỹ năng
+        career_goal:
+          - NGUYỆN VỌNG
+        education:
+          - Trình độ học vấn
+        projects:
+          - Kinh nghiệm làm việc
+
+    - file: CV_NguyenAnhTuan .pdf
+      keyword:
+        personal_information:
+          - PERSONAL INFORMATION
+        skills:
+          - TECHNOLOGIES
+        education:
+          - EDUCATION
+        projects:
+          - EXPERIENCE
+
+    - file: Cv_NguyenDucLoi.pdf
+      keyword:
+        personal_information:
+          - THÔNG TIN CÁ NHÂN
+        skills:
+          - KĨ NĂNG
+        career_goal:
+          - MỤC TIÊU
+        education:
+          - HỌC VẤN
+        hobby:
+          - SỞ THÍCH
+
+    - file: CV_QUANGLD.pdf
+      keyword:
+        personal_information:
+          - CONTACT
+        skills:
+          - SKILLS
+          - OTHER SKILLS
+        education:
+          - EDUCATION
+        projects:
+          - EXPERIENCE
+
+    - file: CV_ThucTapPHP_NguyenThiMinhHuyen.pdf
+      keyword:
+        personal_information:
+          - Thông tin liên hệ
+        skills:
+          - Tiếng Anh
+          - Kỹ năng mềm
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - HỌC VẤN
+        activity:
+          - HOẠT ĐỘNG
+
+    - file: CV_TranNgocMinh_DHCN_DHQGHN.pdf
+      keyword:
+        skills:
+          - NĂNG LỰC
+        career_goal:
+          - MỤC TIÊU - ĐỊNH HƯỚNG
+        education:
+          - TRÌNH ĐỘ HỌC VẤN
+        projects:
+          - BÀI TẬP LỚN
+
+    - file: Fresher_QuảnTrịHệThống_NguyễnĐứcTốt.pdf
+      keyword:
+        skills:
+          - THÔNG TIN THÊM
+          - KHẢ NĂNG BẢN THÂN
+          - KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU
+        education:
+          - TRÌNH ĐỘ HỌC VẤN
+        projects:
+          - KINH NGHIỆM LÀM VIỆC
+
+    - file: FreshersAnNinhThongTin_NguyenDucVu.pdf
+      keyword:
+        skills:
+          - KỸ NĂNG
+          - Thông Tin Thêm
+        career_goal:
+          - Mục Tiêu Nghề Nghiệp
+        education:
+          - Học Vấn
+        projects:
+          - Kinh Nghiệm Làm Việc
+        hobby:
+          - SỞ THÍCH
+        activity:
+          - Hoạt Động
+
+    - file: Frontend_PhamThinh_CV.pdf
+      keyword:
+        skills:
+          - KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - HỌC VẤN
+        projects:
+          - KINH NGHIỆM LÀM VIỆC
+        hobby:
+          - SỞ THÍCH
+        activity:
+          - HOẠT ĐỘNG
+
+    - file: Hoang Tien Nguyen CV.pdf
+      keyword:
+        personal_information:
+          - Contact information
+        skills:
+          - Skills
+        career_goal:
+          - Objective
+        education:
+          - Education
+        projects:
+          - Work experience
+        activity:
+          - Activities
+
+    - file: Hoang-Duy-Hao-TopCV.vn-new.pdf
+      keyword:
+        skills:
+          - CÁC KỸ NĂNG
+          - KỸ NĂNG MỀM
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - ĐƠN VỊ HỌC TẬP/ CÔNG TÁC
+        projects:
+          - DỰ ÁN
+        hobby:
+          - SỞ THÍCH
+
+    - file: InternCOD_NguyenAnhDung.pdf
+      keyword:
+        skills:
+          - CÁC KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - HỌC VẤN
+        projects:
+          - DỰ ÁN CÁ NHÂN
+        hobby:
+          - SỞ THÍCH
+
+    - file: Kivu-Nhbt-Nam_Fresher System Admin.pdf
+      keyword:
+        personal_information:
+
+        skills:
+          - SKILLS
+          - SOFT SKILLS
+        career_goal:
+          - OBJECTIVES
+        education:
+          - EDUCATION
+        projects:
+          - EXPERIENCE
+        hobby:
+          - HOBBY
+
+    - file: LeHongHoi.docx
+      keyword:
+        personal_information:
+          - PERSONAL DETAILS
+        skills:
+          - SKILLS
+        career_goal:
+          - FUTURE PLAN
+        education:
+          - EDUCATION
+        hobby:
+          - HOBBIES
+
+    - file: LeQuangHaiHau-Networkengineer.pdf
+      keyword:
+        personal_information:
+          - CONTACT ME
+        skills:
+          - PROFESSIONAL SKILLS
+          - PERSONAL SKILLS
+        education:
+          - ACADEMIC EDUCATION
+        projects:
+          - Self-learning Achievements
+          - WORK EXPERIENCE
+
+    - file: Lê Van Titn-Qurn trf hb thlng.pdf
+      keyword:
+        skills:
+          - CÁC KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - HỌC VẤN
+        projects:
+          - KINH NGHIỆM
+        hobby:
+          - SỞ THÍCH
+        activity:
+          - THÔNG TIN THÊM
+
+    - file: Nguyen Quoc Minh.pdf
+      keyword:
+        personal_information:
+          - THÔNG TIN THÊM VỀ CÁ NHÂN
+        skills:
+          - KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU
+        education:
+          - HỌC VẤN
+        projects:
+          - KINH NGHIỆM LÀM VIỆC
+
+    - file: Nguyễn Văn Tuấn.pdf
+      keyword:
+        personal_information:
+          - Contact information
+        skills:
+          - Skills
+        career_goal:
+          - Future plan
+        education:
+          - Education
+        projects:
+          - Work experience
+        hobby:
+          - Hobbies
+
+    - file: Nguyễn_Thị_Sim_CV.docx
+      keyword:
+        personal_information:
+          - THÔNG TIN CÁ NHÂN
+        skills:
+          - CÁC KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - QUÁ TRÌNH HỌC TẬP
+        projects:
+          - KINH NGHIỆM LÀM VIỆC
+        hobby:
+          - SỞ THÍCH
+
+    - file: Tran-Van-Nam-TopCV.vn-280518.100123.pdf
+      keyword:
+        personal_information:
+          - THÔNG TIN LIÊN HỆ
+        skills:
+          - KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+          - QUÁ TRÌNH HỌC TẬP
+        education:
+          - HỌC VẤN
+        hobby:
+          - SỞ THÍCH
+
+    - file: Tran_Van_Thang.pdf
+      keyword:
+        career_goal:
+          - MỤC TIÊU
+        education:
+          - HỌC VẤN
+        projects:
+          - KINH NGHIỆM LÀM VIỆC
+
+    - file: TranNgocHoan.pdf
+      keyword:
+        skills:
+          - Kỹ Năng
+        education:
+          - Học Vấn
+        projects:
+          - Kinh Nghiệm Làm Việc
+          - Sản Phẩm/Bài Tập Lớn
+        hobby:
+          - SỞ THÍCH
+
+    - file: Trieu-Viet-Hung-DonXinThucTap-Misa.pdf
+      keyword:
+        skills:
+          - CÁC KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - HỌC VẤN
+        projects:
+          - KINH NGHIỆM LÀM VIỆC
+
+    - file: Vu Duy Thanh.pdf
+      keyword:
+        skills:
+          - Skills
+        education:
+          - Education & Experiences
+        activity:
+          - activity
+
+    - file: Vu-Duy-Dat-CV.pdf
+      keyword:
+        personal_information:
+          - THÔNG TIN LIÊN HỆ
+        skills:
+          - KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - HỌC VẤN
+        projects:
+          - KINH NGHIỆM LÀM VIỆC
+        hobby:
+          - SỞ THÍCH
+        activity:
+          - HOẠT ĐỘNG
+
+    - file:
+      keyword:
+        skills:
+          - CÁC KỸ NĂNG
+        career_goal:
+          - MỤC TIÊU NGHỀ NGHIỆP
+        education:
+          - HỌC VẤN
+        projects:
+          - KINH NGHIỆM HỌC TẬP VÀ LÀM VIỆC
+        hobby:
+          - SỞ THÍCH
